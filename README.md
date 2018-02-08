@@ -1,4 +1,4 @@
-#Powerpoint -> Word Document converter#
+#Powerpoint -> Word Document converter
 
 Add your powerpoint file called "lecture_slides.pptx".
 
